@@ -1,0 +1,24 @@
+body {
+	font: 13px/1.5 sans-serif;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+a {
+	text-decoration: none;
+}
+
+div {
+	text-align: justify;
+	font-size: 150%;
+	margin-top: 19.5;
+	margin-bottom:19.5;
+}
+
+#welcome {
+	text-align: right;
+}
+
+img {
+	text-align: justify;
+}
